@@ -2,10 +2,11 @@
 
 <img src="public/img/explorer-logo.png" alt="Artemis Explorer logo" height="200" />
 
-<div >
-<b>Live Version: [explorer.artemisproject.io](http://explorer.artemisproject.io)</b>
+<div>
 
-<b>Gitter Channel: [giter.im/artemis-project-team/explorer](https://gitter.im/artemis-project-team/explorer)</b>
+<b>Live Version: [explorer.artemisproject.io](http://explorer.artemisproject.io) </b>
+
+<b>Gitter Channel: [giter.im/artemis-project-team/explorer](https://gitter.im/artemis-project-team/explorer) </b>
 </div>
 ## Local installation
 
