@@ -8,6 +8,7 @@
 
 <b>Gitter Channel: [giter.im/artemis-project-team/explorer](https://gitter.im/artemis-project-team/explorer) </b>
 </div>
+
 ## Local installation
 
 Download [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
