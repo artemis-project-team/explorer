@@ -1,8 +1,18 @@
-div.page-logo {overflow: visible;}
-img.logo-default {
-    max-height: 150px;
-    height: 100px;
+div.page-logo {
+    overflow: visible;
+    margin-top: 20px;
 }
+
+img.logo-default {
+    max-height: 100px;
+    height: 80px;
+    float: left;
+}
+h1.app-name {
+    display: block;
+    margin-left: 100px;
+}
+
 .create{background-color:#36c6d3}
 .truncate-txhash, .truncate-addrhash{
     white-space:nowrap;

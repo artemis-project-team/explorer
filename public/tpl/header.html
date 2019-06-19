@@ -4,7 +4,8 @@
     <!-- BEGIN LOGO -->
     <div class="page-logo">
       <a href="/">
-      <img ng-show="settings.logo" src="{{settings.logo}}" alt="logo" class="logo-default" />
+        <img ng-show="settings.logo" src="{{settings.logo}}" alt="logo" class="logo-default" />
+        <h1 ng-bind-html="settings.name" class="app-name"></h1> 
       </a>
     </div>
     <!-- END LOGO -->
