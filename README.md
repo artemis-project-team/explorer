@@ -46,22 +46,25 @@ Basic settings:
     "settings": {
         "symbol": "ARS",
         "name": "Artemis",
-        "title": "Artemis Block Explorer",
-        "author": "Arthur",
-        "rss": "https://artemisproject.io",
-        "reddit": "https://www.reddit.com/r/EthereumClassic",
-        "twitter": "https://twitter.com/eth_classic",
-        "linkedin": "https://www.linkedin.com/company/ethereum-classic",
-        "github": "https://github.com/ethereumclassic",
+        "title": "Artemis Explorer",
+        "author": "Artemis project team",
+        "contact": "mailto:contact@artemisproject.io",
+        "about": "This is an open source Blockchain Explorer.",
+        "rss": "",
+        "reddit": "",
+        "twitter": "",
+        "linkedin": "",
+        "github": "https://github.com/artemis-project-team/explorer",
         "logo": "/img/explorer-logo.png",
         "copyright": "2019 &copy; Artemis.",
         "poweredbyCustom": false,
         "poweredbyEtcImage": "/img/powered-by-etcexplorer-w.png",
         "poweredbyEtc": true,
+        "tokenList": "tokens.json",
         "useRichList": true,
         "useFiat": true,
         "miners": {
-            "0xdf7d7e053933b5cc24372f878c90e62dadad5d42": "MMine"
+            "0xdf7d7e053933b5cc24372f878c90e62dadad5d42": "AMine"
          }
     }
 }
